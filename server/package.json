@@ -40,7 +40,7 @@
     "http-status": "^1.2.0",
     "joi": "^17.4.0",
     "lodash": "^4.17.21",
-    "log4js": "^3.0.6",
+    "log4js": "^6.9.1",
     "node-fetch": "^2.6.1",
     "@quantnetwork/overledger-bundle": "^2.0.0",
     "@quantnetwork/overledger-types": "^2.0.0",
