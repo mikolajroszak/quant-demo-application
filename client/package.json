@@ -18,7 +18,7 @@
     "cross-env": "^7.0.3",
     "qs": "^6.10.1",
     "socket.io-client": "^4.1.2",
-    "vee-validate": "^3.4.7",
+    "vee-validate": "^4.10.5",
     "vue": "^2.6.12",
     "vue-clipboard2": "^0.3.1",
     "vue-multiselect": "^2.1.6",
