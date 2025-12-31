@@ -16,7 +16,7 @@
     "bootstrap-vue": "^2.21.2",
     "core-js": "^3.13.0",
     "cross-env": "^7.0.3",
-    "qs": "^6.10.1",
+    "qs": "^6.14.1",
     "socket.io-client": "^4.1.2",
     "vee-validate": "^3.4.7",
     "vue": "^2.6.12",
